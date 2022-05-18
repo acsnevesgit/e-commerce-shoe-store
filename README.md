@@ -5,14 +5,27 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3)&nbsp;
 ![sass](https://img.shields.io/badge/-sass-333333?style=flat&logo=sass)&nbsp;<br/><br/>
 
-## ❔ About -----------------------------------------------------------
-Based on tutorial : _Learn HTML & CSS in 2022 | Crash Course_ -  https://youtu.be/gXLjWRteuWI<br/><br/>
+---
 
-## 📸 Screenshots ----------------------------------------------------
+## ❔ About
+<br/>
+Based on tutorial : _Learn HTML & CSS in 2022 | Crash Course_ -  https://youtu.be/gXLjWRteuWI<br/>
+<br/>
+
+---
+
+## 📸 Screenshots
+
+<div align="center">
+  
 ### Desktop version
+<br/>
 
-![e-commerce-1](https://user-images.githubusercontent.com/94974740/162811652-b5ddc10b-2224-41be-bd09-70f9da72fe42.PNG)<br/><br/>
+<img src="https://user-images.githubusercontent.com/94974740/162811652-b5ddc10b-2224-41be-bd09-70f9da72fe42.PNG" width="800" height="auto">
 
 ### Mobile version
+<br/>
 
-![e-commerce-2](https://user-images.githubusercontent.com/94974740/162811693-286fe95a-abe3-47f6-b572-62964097a70f.PNG)
+<img src="https://user-images.githubusercontent.com/94974740/162811693-286fe95a-abe3-47f6-b572-62964097a70f.PNG" width="280" height="auto">
+  
+</div/>
