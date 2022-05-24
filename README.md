@@ -1,4 +1,4 @@
-<h1 align="center">Building an e-commerce frontend</h1>
+<h1 align="center">Shoe e-commerce frontend</h1>
 
 <div align="center">
   
@@ -26,16 +26,11 @@
 
 ## 📸 Screenshots
 
-<div align="center">
+<br/><div align="center">
   
-### Desktop version
-<br/>
+|Pages and features|Shoe e-commerce frontend|
+| :----------------: | :---------------------------------------------------: |
+|`Mobile Version`|<img src="https://user-images.githubusercontent.com/94974740/170082916-e2e24884-806f-495a-a281-f29054d5d5f3.png"  width="400" height="auto"/>|
+|`Desktop Version`|<img src="https://user-images.githubusercontent.com/94974740/170082922-da1e5cbb-2bc2-44d5-9413-9146cfdc1d1b.png"  width="400" height="auto"/>|
 
-<img src="https://user-images.githubusercontent.com/94974740/162811652-b5ddc10b-2224-41be-bd09-70f9da72fe42.PNG" width="800" height="auto">
-
-### Mobile version
-<br/>
-
-<img src="https://user-images.githubusercontent.com/94974740/162811693-286fe95a-abe3-47f6-b572-62964097a70f.PNG" width="280" height="auto">
-  
-</div/>
+</div><br/>
