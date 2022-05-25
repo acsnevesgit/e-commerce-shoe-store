@@ -14,7 +14,7 @@
 
 ## ❔ About
 
-<p align="justify">Shoe e-commerce frontend inspired on tutorial <i>Learn HTML & CSS in 2022 | Crash Course</i> --->  https://youtu.be/gXLjWRteuWI</p/
+<p align="justify">Shoe e-commerce frontend with responsive design inspired on tutorial <i>Learn HTML & CSS in 2022 | Crash Course</i> --->  https://youtu.be/gXLjWRteuWI</p/
 
 <br/><div align="center">
 
